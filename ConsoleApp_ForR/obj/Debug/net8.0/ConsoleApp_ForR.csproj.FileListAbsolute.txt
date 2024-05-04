@@ -1,0 +1,14 @@
+C:\Work\CSELS\DHIS\Projects\VS\Projects\ConsoleApp_ForR\ConsoleApp_ForR\bin\Debug\net8.0\ConsoleApp_ForR.exe
+C:\Work\CSELS\DHIS\Projects\VS\Projects\ConsoleApp_ForR\ConsoleApp_ForR\bin\Debug\net8.0\ConsoleApp_ForR.deps.json
+C:\Work\CSELS\DHIS\Projects\VS\Projects\ConsoleApp_ForR\ConsoleApp_ForR\bin\Debug\net8.0\ConsoleApp_ForR.runtimeconfig.json
+C:\Work\CSELS\DHIS\Projects\VS\Projects\ConsoleApp_ForR\ConsoleApp_ForR\bin\Debug\net8.0\ConsoleApp_ForR.dll
+C:\Work\CSELS\DHIS\Projects\VS\Projects\ConsoleApp_ForR\ConsoleApp_ForR\bin\Debug\net8.0\ConsoleApp_ForR.pdb
+C:\Work\CSELS\DHIS\Projects\VS\Projects\ConsoleApp_ForR\ConsoleApp_ForR\obj\Debug\net8.0\ConsoleApp_ForR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\CSELS\DHIS\Projects\VS\Projects\ConsoleApp_ForR\ConsoleApp_ForR\obj\Debug\net8.0\ConsoleApp_ForR.AssemblyInfoInputs.cache
+C:\Work\CSELS\DHIS\Projects\VS\Projects\ConsoleApp_ForR\ConsoleApp_ForR\obj\Debug\net8.0\ConsoleApp_ForR.AssemblyInfo.cs
+C:\Work\CSELS\DHIS\Projects\VS\Projects\ConsoleApp_ForR\ConsoleApp_ForR\obj\Debug\net8.0\ConsoleApp_ForR.csproj.CoreCompileInputs.cache
+C:\Work\CSELS\DHIS\Projects\VS\Projects\ConsoleApp_ForR\ConsoleApp_ForR\obj\Debug\net8.0\ConsoleApp_ForR.dll
+C:\Work\CSELS\DHIS\Projects\VS\Projects\ConsoleApp_ForR\ConsoleApp_ForR\obj\Debug\net8.0\refint\ConsoleApp_ForR.dll
+C:\Work\CSELS\DHIS\Projects\VS\Projects\ConsoleApp_ForR\ConsoleApp_ForR\obj\Debug\net8.0\ConsoleApp_ForR.pdb
+C:\Work\CSELS\DHIS\Projects\VS\Projects\ConsoleApp_ForR\ConsoleApp_ForR\obj\Debug\net8.0\ConsoleApp_ForR.genruntimeconfig.cache
+C:\Work\CSELS\DHIS\Projects\VS\Projects\ConsoleApp_ForR\ConsoleApp_ForR\obj\Debug\net8.0\ref\ConsoleApp_ForR.dll
